@@ -27,7 +27,9 @@ Notice how PageView and Navbar aren't using the props?
 
 ### [Tutorial #7 - Creating Multiple Contexts](https://www.youtube.com/watch?v=Yps_QrUvluQ&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=7)
 
-### []()
+### [Tutorial #8 - Consuming Multiple Contexts](https://www.youtube.com/watch?v=hLFl4Io0mww&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=9)
+
+- [x] Consuming two different `Contexts` inside a single component
 
 ### []()
 
