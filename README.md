@@ -22,3 +22,17 @@ Notice how PageView and Navbar aren't using the props?
 ### [Tutorial #4 - Accessing Context (part 1)](https://www.youtube.com/watch?v=WkBXRQfpifc&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=4)
 
 ### [Tutorial #5 - Accessing Context (part 2)](https://www.youtube.com/watch?v=1bsvh_0HRwA&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=5)
+
+### [Tutorial #6 - Updating Context Data](https://www.youtube.com/watch?v=bJXAHHpyVes&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=6)
+
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()
+### []()

@@ -5,8 +5,6 @@ class Navbar extends Component {
   // Not the "Provider", but the const ThemeContext = createContext()
   // static contextType = ThemeContext;
   
-
-
   render() {
     // console.log(this.context)
     
