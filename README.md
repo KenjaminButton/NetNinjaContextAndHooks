@@ -2,9 +2,9 @@
 
 [Net Ninja Context API & Hooks Tutorial](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 
-- [x] [Tutorial #1 Introduction](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
+### [Tutorial #1 Introduction](https://www.youtube.com/watch?v=6RhOzQciVwI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI)
 
-- [x] [Tutorial #2 What is the Context API?](https://www.youtube.com/watch?v=XkBB3pPY3t8&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=2) 
+### [Tutorial #2 What is the Context API?](https://www.youtube.com/watch?v=XkBB3pPY3t8&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=2) 
 
 **Dark Mode Prop Drilling Example**
 ![Dark Mode Prop Drilling](https://i.imgur.com/qdymzSu.png)
@@ -15,4 +15,10 @@ Notice how PageView and Navbar aren't using the props?
 
 [React Docs: When to Use Context](https://legacy.reactjs.org/docs/context.html#when-to-use-context)
 
-- [x] [Tutorial #3 Adding a Context & Provider](https://www.youtube.com/watch?v=CGRpfIUURE0&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=3)
+### [Tutorial #3 Adding a Context & Provider](https://www.youtube.com/watch?v=CGRpfIUURE0&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=3)
+
+- These "things" have a `Provider` and a `Consumer`
+
+### [Tutorial #4 - Accessing Context (part 1)](https://www.youtube.com/watch?v=WkBXRQfpifc&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=4)
+
+### [Tutorial #5 - Accessing Context (part 2)](https://www.youtube.com/watch?v=1bsvh_0HRwA&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=5)

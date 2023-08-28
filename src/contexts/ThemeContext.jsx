@@ -1,18 +1,20 @@
-import React from 'react'
-import { createContext } from "react";
+import { createContext, Component } from "react";
 
 export const ThemeContext = createContext()
-
-import React, { Component } from 'react'
 
 class ThemeContextProvider extends Component {
   state = {
     isLightTheme: true,
-    light: {syntax: '#555', ui: '#ddd', bg: '#eee'}
+    light: {syntax: '#555', ui: '#ddd', bg: '#eee'},
+    dark: {syntax: '#ddd', ui: '#333', bg: '#555'}
   }
   render() {
     return (
-      <div>ThemeContextProvider</div>
+      
+      <ThemeContext.Provider value={{...this.state}}>
+        {this.props.children}
+
+      </ThemeContext.Provider>
     )
   }
 }
