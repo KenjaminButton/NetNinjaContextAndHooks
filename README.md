@@ -54,7 +54,7 @@ Notice how PageView and Navbar aren't using the props?
 
 ### [Tutorial #16 - Reading List Project (part 1)](https://www.youtube.com/watch?v=v1s_rbZbqQI&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=16)
 
-### []()
+### [Tutorial #18 - Reading List App (part 3)](https://www.youtube.com/watch?v=1I-vfkOVAXU&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=18)
 
 ### []()
 
