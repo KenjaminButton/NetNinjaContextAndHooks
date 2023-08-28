@@ -30,10 +30,23 @@ Notice how PageView and Navbar aren't using the props?
 ### [Tutorial #8 - Consuming Multiple Contexts](https://www.youtube.com/watch?v=hLFl4Io0mww&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=9)
 
 - [x] Consuming two different `Contexts` inside a single component
+- [x] Don't get too hung up on this. The next section is on React Hooks and after understanding `Hooks`, we can use them in combination with `React Context API` to make it much easier. 
 
-### []()
+### [Tutorial #9 - Intro to Hooks](https://www.youtube.com/watch?v=JgYRBCRHfHE&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=9)
 
-### []()
+**React Hooks**
+- Special `functions`
+- Allows us to do additional things inside functional components
+  - e.g. `useState`
+
+- `useState()` within a functional component
+- `useEffect()` to run code when a component renders (or re-renders)
+- `useContext()` to consume context in a functional component
+
+- [x] Create a new React app with Vite and call it `hooksapp`
+
+
+### [Tutorial #13 - Hooks with Context](https://www.youtube.com/watch?v=7LIGIN6_R_s&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=13)
 
 ### []()
 
