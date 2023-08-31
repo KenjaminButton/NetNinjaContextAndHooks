@@ -56,8 +56,12 @@ Notice how PageView and Navbar aren't using the props?
 
 ### [Tutorial #18 - Reading List App (part 3)](https://www.youtube.com/watch?v=1I-vfkOVAXU&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=18)
 
-### []()
+### [Tutorial #19 - Reducers, Actions & State](https://www.youtube.com/watch?v=uXWycyeTeCs&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=19)
 
-### []()
+![Reducers](https://i.imgur.com/fWkHax3.png)
+
+![Reducers](https://i.imgur.com/E6pqHB9.png)
+
+### [#20 - Adding a Reducer](https://www.youtube.com/watch?v=zIOWnK5RcOU&list=PL4cUxeGkcC9hNokByJilPg5g9m2APUePI&index=20)
 
 ### []()
