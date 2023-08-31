@@ -1,4 +1,4 @@
-import { createContext, useState, useReducer } from "react"
+import { createContext, useState, useReducer, useEffect } from "react"
 import { bookReducer } from "../reducers/bookReducer"
 
 
@@ -11,7 +11,15 @@ const BookContextProvider = (props) => {
   //   {title: 'The Adventures of Tom Sawyer', author: 'Mark Twain', id: 2},
   // ])
 
-  const [books, dispatch] = useReducer(bookReducer, [])
+  const [books, dispatch] = useReducer(bookReducer, [], () => {
+    const localData = localStorage.getItem('books')
+    return localData ? JSON.parse(localData) : []
+  })
+
+  useEffect( () => {
+    localStorage.setItem('books', JSON.stringify(books))
+
+  }, [books])
 
   // // Add a new book to data
   // const addBook = (title, author) => {
